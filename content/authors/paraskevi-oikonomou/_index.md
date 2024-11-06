@@ -60,7 +60,7 @@ social:
  #  link: 'https://akanksha-ahuja.github.io/'
  - icon: linkedin
    icon_pack: fab
-   link: 'www.linkedin.com/in/paraskevioikonomou'
+   link: 'https://www.linkedin.com/in/paraskevioikonomou/'
  #- icon: twitter
  # icon_pack: fab
  #  link: https://twitter.com/Akanksha_Ahuja9
