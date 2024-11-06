@@ -42,7 +42,7 @@ education:
  #     year: ongoing
     - course: M.Eng. in Rural, Surveying & Geoinformatics Engineering
       institution: National Technical University of Athens 
-      year: (2019-2024)
+      year: 2019-2024
   #  - course: BSc. in Geography
   #    institution: Harokopio University of Athens
   #    year: 2018
@@ -58,9 +58,9 @@ social:
  #- icon: globe
  #  icon_pack: fa
  #  link: 'https://akanksha-ahuja.github.io/'
- #- icon: linkedin
- #  icon_pack: fab
- #  link: 'https://www.linkedin.com/in/andreas-karavias-472283158/'
+ - icon: linkedin
+   icon_pack: fab
+   link: 'www.linkedin.com/in/paraskevioikonomou'
  #- icon: twitter
  # icon_pack: fab
  #  link: https://twitter.com/Akanksha_Ahuja9
@@ -88,4 +88,4 @@ social:
 user_groups:
   - Collaborators
 ---
-Paraskevi Oikonomou holds a M. Eng. in Rural, Surveying and Geoinformatics Engineering from National Technical University of Athens. Her Diploma Thesis focuses on monitoring and prediction of natural regeneration after wildfires in Mediterranean vegetated areas. In 2023, she conducted her internship as a geospatial engineer in the private factor, working for Horizon 2020 projects. Currently, at Orion Lab she is working on regeneration monitoring after wildfires.
+Paraskevi Oikonomou holds a M.Eng. in Rural, Surveying and Geoinformatics Engineering from National Technical University of Athens. Her Diploma Thesis focused on monitoring and prediction of natural regeneration after wildfires in Mediterranean vegetated areas. In 2023, she conducted her internship in the private factor, working for Horizon 2020 projects. Currently, at Orion Lab she is working on regeneration monitoring after wildfires.
